@@ -1,11 +1,11 @@
 
 
 
-
+[![MasterHead](https://www.cloudwithchris.com/blog/githubactions-testsummary-go/images/banner_hub3dfae72480060a902fb8806c5a6b921_426879_1366x0_resize_q75_h2_box_3.webp)
 
 <h1 align="center">Hi 👋, I'm Mamun Or Rashid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right"alt="Coding"width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
+<img align="right"alt="Coding"width="500" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun35421&label=Profile%20views&color=0e75b6&style=flat" alt="mamun35421" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mamunor34472868" target="blank"><img src="https://img.shields.io/twitter/follow/mamunor34472868?logo=twitter&style=for-the-badge" alt="mamunor34472868" /></a> </p>
